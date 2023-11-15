@@ -1,0 +1,4 @@
+outputs/
+__APIKEY__
+__pycache__
+.idea/
